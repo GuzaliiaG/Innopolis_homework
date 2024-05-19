@@ -1,0 +1,17 @@
+{
+  "id": 213486,
+  "username": "Guzel",
+  "firstName": "Гузалия",
+  "lastName": "Галиахметова",
+  "email": [
+    "one1@mail.ru",
+    "two2@mail.ru",
+    "three3@mail.ru"
+  ],
+  "password": "string",
+  "phone": {
+    "code": "+7",
+    "number": "9874221234"
+  },
+  "userStatus": 0
+}
